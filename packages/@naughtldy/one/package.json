@@ -21,7 +21,7 @@
     "url": "git+https://github.com/naughtLdy/sandbox-lerna-renovate.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo 'nothing to do'"
   },
   "bugs": {
     "url": "https://github.com/naughtLdy/sandbox-lerna-renovate/issues"
